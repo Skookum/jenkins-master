@@ -1,10 +1,7 @@
-blueocean:1.5.0
-blueocean-display-url:2.2.0
+blueocean:1.6.1
 configuration-as-code:experimental
 credentials-binding:1.16
 git:3.9.1
 http_request:1.8.22
-kubernetes:1.8.1
+kubernetes:1.8.4
 pipeline-utility-steps:2.1.0
-workflow-aggregator:2.5
-workflow-job:2.21
