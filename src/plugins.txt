@@ -5,10 +5,6 @@ credentials-binding:1.16
 git:3.9.1
 http_request:1.8.22
 kubernetes:1.8.1
-openshift-client:1.0.12
-openshift-login:1.0.8
-openshift-pipeline:1.0.54
-openshift-sync:1.0.19
 pipeline-utility-steps:2.1.0
 workflow-aggregator:2.5
 workflow-job:2.21
